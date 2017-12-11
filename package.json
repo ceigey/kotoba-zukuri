@@ -1,0 +1,28 @@
+{
+  "name": "kotoba-zukuri",
+  "version": "0.0.1",
+  "description": "Language Documentation Tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceigey/kotoba-zukuri.git"
+  },
+  "keywords": [
+    "language",
+    "conlang",
+    "electron.js",
+    "app"
+  ],
+  "author": "Christian Meredith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceigey/kotoba-zukuri/issues"
+  },
+  "homepage": "https://github.com/ceigey/kotoba-zukuri#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
